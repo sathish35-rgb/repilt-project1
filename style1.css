@@ -1,0 +1,19 @@
+.flag {
+    width : 400px;
+    height : 80px;
+    background-color: rgb(255, 71, 71);
+}
+.wrap {
+    display :flex;
+} 
+.middle {
+    width : 400px;
+    height : 80px;
+    background-color: rgb(232, 240, 234);
+}
+.bottom {
+    width : 400px;
+    height : 80px;
+    background-color: rgb(26, 146, 22);
+
+}
